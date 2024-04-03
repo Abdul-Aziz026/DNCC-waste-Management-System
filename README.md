@@ -2,7 +2,7 @@
 
 ## git clone code:
 ```cpp
-git clone https://github.com/Abdul-Aziz026/cs24-p2-BSMRSTU_FUSINGBRILLIANCE.git
+git clone [https://github.com/Abdul-Aziz026/cs24-p2-BSMRSTU_FUSINGBRILLIANCE.git](https://github.com/Abdul-Aziz026/DNCC-waste-Management-System.git)
 ```
 
 ## required install package command
